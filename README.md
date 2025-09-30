@@ -1,4 +1,3 @@
-
 # Spacecraft Pose Estimation from Monocular Images
 
 This project implements and evaluates a Keypoint Regression Network (KRN) for estimating the 6-DOF (Degrees of Freedom) pose of a spacecraft from a single monocular image. The model is trained on a synthetic dataset and evaluated on the SPEED+ dataset, which includes images with different lighting conditions ('lightbox' and 'sunlamp').
